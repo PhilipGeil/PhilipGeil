@@ -24,15 +24,38 @@
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
 <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
+<a margin="10" href="https://www.typescriptlang.org/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/typescript.svg" alt="typescript"></a>
+<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/react-2.svg" alt="react"></a>
+<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/nextjs-2.svg" alt="next js"></a>
+<a margin="10" href="https://dart.dev" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/dart.svg" alt="dart"></a>
+<a margin="10" href="https://angular.io/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/angular-icon-1.svg" alt="angular"></a>
 <br />
 <br />
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
-<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/figma.svg" alt="figma"></a>
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
-<a margin="10" href="https://nextjs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nextjs.svg" alt="next js"></a>
+
+<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/material-ui-1.svg" alt="material ui"></a>
+<a margin="10" href="https://www.adobe.com" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/adobe-xd-1.svg" alt="adobe xd"></a>
+<a margin="10" href="https://figma.com" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/figma-1.svg" alt="figma"></a>
+
 <br />
 <br />
-<a margin="10" href="https://graphcms.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/graphcms.svg" alt="graphcms"></a>
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
-<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/firebase.svg" alt="firebase"></a>
+<a margin="10" href="https://go.dev/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/golang-1.svg" alt="go"></a>
+<a margin="10" href="https://dotnet.microsoft.com/en-us/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/c--4.svg" alt="c#"></a>
+<a margin="10" href="https://www.java.com/en/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/java-4.svg" alt="java"></a>
+<a margin="10" href="https://flutter.dev/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/flutter.svg" alt="flutter"></a>
+<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/nodejs-icon.svg" alt="nodejs"></a>
+<br />
+<br />
+<a margin="10" href="https://firebase.google.com" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/firebase-1.svg" alt="firebase"></a>
+<a margin="10" href="https://www.postgresql.org/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/postgresql.svg" alt="postgres"></a>
+<a margin="10" href="https://www.mysql.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/mysql-6.svg" alt="mysql"></a>
+<a margin="10" href="https://mariadb.org/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/mariadb.svg" alt="firebase"></a>
+
+<br />
+<br />
+
+<a margin="10" href="https://git-scm.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/git.svg" alt="git"></a>
+<a margin="10" href="https://www.postman.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/postman.svg" alt="postman"></a>
+<a margin="10" href="https://www.jetbrains.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/jetbrains-1.svg" alt="jetbrains"></a>
+<a margin="10" href="https://code.visualstudio.com/" target="_blank"><img margin="10px" height="40" src="https://github.com/PhilipGeil/PhilipGeil/blob/main/images/visual-studio-code-1.svg" alt="vscode"></a>
+
 </div>
