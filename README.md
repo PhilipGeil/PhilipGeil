@@ -3,7 +3,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am an `Apprentice` at Individualisterne 
+- :school: I am a `Software developer` at Individualisterne 
 - :technologist: I love solving `Problems` using software
 - :student: I’m currently being educated as: `Datatechnician with speciality in programming`.
 - :nerd_face: Always `learning new things`
