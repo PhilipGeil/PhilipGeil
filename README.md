@@ -3,7 +3,7 @@
 
 
 ## :sassy_man:  About me
-- :school: I am a `Software developer` at Individualisterne 
+- :school: I am a `Software developer` at Safepay Nordic 
 - :technologist: I love solving `Problems` using software
 - 👨‍🎓 Educated as: `Datatechnician with speciality in programming`.
 - :nerd_face: Always `learning new things`
